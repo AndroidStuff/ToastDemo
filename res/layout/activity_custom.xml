@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_custom_toast_layout_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aabbcc"
+    android:orientation="vertical" >
+    
+    <ImageView 
+        android:id="@+id/activity_custom_image_view" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher"/>
+    
+    <TextView 
+        android:id="@+id/activity_custom_text_view" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="This is A Sample Custom Toast"/>
+    
+</LinearLayout>

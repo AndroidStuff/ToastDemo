@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToastDemo</string>
+    <string name="button_toast">Click to show demo of Toast!</string>
+    <string name="button_custom_toast">Click to show demo of Custom Toast!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
